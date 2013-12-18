@@ -1,0 +1,4 @@
+platform :ios
+#platform :osx
+
+pod "Kache", :path => "../Kache.podspec"
